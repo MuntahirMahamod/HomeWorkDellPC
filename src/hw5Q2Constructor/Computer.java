@@ -7,12 +7,12 @@ public class Computer {
 	public int price;
 	public char grade;
 	public boolean madeInUsa;
-	
-public Computer() {
-	System.out.println("This is from default constructor of computer class");
+
+	public Computer() {
+		System.out.println("This is from default constructor of computer class");
 	}
 
-public Computer(String brand, String model, String operatingSystem, int price, char grade, boolean madeInUsa) {
+	public Computer(String brand, String model, String operatingSystem, int price, char grade, boolean madeInUsa) {
 		this.brand = brand;
 		this.model = model;
 		this.operatingSystem = operatingSystem;
