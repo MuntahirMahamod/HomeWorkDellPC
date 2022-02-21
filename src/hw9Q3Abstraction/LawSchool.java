@@ -1,4 +1,4 @@
-package hw9Q3Abstraction.copy;
+package hw9Q3Abstraction;
 
 public interface LawSchool {
 	public void lawInfo();

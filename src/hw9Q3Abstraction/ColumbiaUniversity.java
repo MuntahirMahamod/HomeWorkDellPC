@@ -1,4 +1,4 @@
-package hw9Q3Abstraction.copy;
+package hw9Q3Abstraction;
 
 /* one keyword used for  inheritance in Java for a regular Class.
 *  Regular Class inherit other Abstract Class or a regular class by extends keyword, its can not inherit interface by extends      keyword.

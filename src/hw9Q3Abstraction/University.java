@@ -1,4 +1,4 @@
-package hw9Q3Abstraction.copy;
+package hw9Q3Abstraction;
 
 /* one keyword used for inheritance in Interface.
  * interface can inherit other Interfaces by extends keyword.

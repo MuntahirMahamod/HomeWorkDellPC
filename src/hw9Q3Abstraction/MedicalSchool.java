@@ -1,4 +1,4 @@
-package hw9Q3Abstraction.copy;
+package hw9Q3Abstraction;
 
 /* One keyword is used for the inheritance in java for Abstract Class.
  * Abstract Class inherit other Abstract Class or a regular class by extends keyword, its can not inherit interface by extends      keyword.
