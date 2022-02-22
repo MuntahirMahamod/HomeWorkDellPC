@@ -1,7 +1,8 @@
 package hw9Q3Abstraction;
 
-/* one keyword used for inheritance in Interface.
+/* Two keyword used for inheritance in Interface.
  * interface can inherit other Interfaces by extends keyword.
+ * interface can inherit regular class and abstract class by implements  keyword.
  * interface can not inherit regular class and abstract class by extends keyword.
  * more than one inheritance is possible.
  * */
