@@ -1,4 +1,4 @@
-package hw10Q3Abstraction;
+package hw11Q3Abstraction;
 
 /*
 * Abstract class can inherit other abstract Class or a regular class by extends keyword,
